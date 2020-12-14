@@ -5,7 +5,7 @@ public class LabQuestion2 {
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
 		
-		System.out.print("Enter your sales: ");
+		System.out.print("Enter your sales: RM");
 		double sales1=in.nextDouble();
 		System.out.print("Enter hours worked: ");
 		double hours = in.nextDouble();
